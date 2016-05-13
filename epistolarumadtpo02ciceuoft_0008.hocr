@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolarumadtpo02ciceuoft_0008.png"; bbox 0 0 2024 3517; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1075 2874 1318 2922">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1075 2874 1318 2922">
+     <span class='ocr_line' id='line_1_1' title="bbox 1304 2874 1318 2886; baseline 0.071 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1304 2874 1318 2886; x_wconf 64' lang='lat' dir='ltr'>t,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1075 2886 1302 2908; baseline 0.088 -13"><span class='ocrx_word' id='word_1_2' title='bbox 1075 2887 1099 2895; x_wconf 43' lang='lat' dir='ltr'>v-</span> <span class='ocrx_word' id='word_1_3' title='bbox 1143 2886 1230 2908; x_wconf 55' lang='lat'>21³·</span> <span class='ocrx_word' id='word_1_4' title='bbox 1295 2886 1302 2900; x_wconf 77' lang='grc'>·’</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1180 2907 1287 2922; baseline 0.065 0"><span class='ocrx_word' id='word_1_5' title='bbox 1180 2907 1287 2922; x_wconf 49' lang='lat' dir='ltr'>v1.&#39;&#39;&#39;&#39;··</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1428 2932 1509 2948">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1428 2932 1509 2948">
+     <span class='ocr_line' id='line_1_4' title="bbox 1428 2932 1509 2948; baseline 0.074 -3"><span class='ocrx_word' id='word_1_6' title='bbox 1428 2943 1432 2945; x_wconf 30' lang='grc' dir='ltr'>Λ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1473 2932 1509 2948; x_wconf 49' lang='lat'>15</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 904 3059 1246 3106">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 904 3059 1246 3106">
+     <span class='ocr_line' id='line_1_5' title="bbox 904 3059 1246 3106; baseline 0.035 -10"><span class='ocrx_word' id='word_1_8' title='bbox 904 3070 926 3097; x_wconf 61' lang='lat' dir='ltr'>,z</span> <span class='ocrx_word' id='word_1_9' title='bbox 1000 3059 1228 3106; x_wconf 17' lang='lat' dir='ltr'>*vj-nesci&amp;</span> <span class='ocrx_word' id='word_1_10' title='bbox 1243 3081 1246 3086; x_wconf 93' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2020 3517">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2020 3517">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2020 3517; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2020 3517; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolarumadtpo02ciceuoft_0425.png"; bbox 0 0 2062 3565; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1182 802 2037 1060">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1182 802 2037 1060">
+     <span class='ocr_line' id='line_1_1' title="bbox 1188 802 2037 958; baseline 0.027 -51"><span class='ocrx_word' id='word_1_1' title='bbox 1188 802 1191 829; x_wconf 54' lang='lat'>³</span> <span class='ocrx_word' id='word_1_2' title='bbox 1253 811 1592 935; x_wconf 56' lang='lat' dir='ltr'>universim</span> <span class='ocrx_word' id='word_1_3' title='bbox 1623 842 1684 958; x_wconf 62' lang='lat' dir='ltr'><strong>ol</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1718 843 1975 927; x_wconf 74' lang='grc' dir='ltr'><strong>Ῑοτοιιίο</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2034 874 2037 875; x_wconf 28' lang='lat' dir='ltr'><strong><em>f</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1182 959 1813 1060; baseline 0.027 -32"><span class='ocrx_word' id='word_1_6' title='bbox 1182 962 1186 1000; x_wconf 61' lang='lat'>³</span> <span class='ocrx_word' id='word_1_7' title='bbox 1492 959 1736 1060; x_wconf 73' lang='lat' dir='ltr'><strong>[ibrary</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1811 975 1813 978; x_wconf 68' lang='lat'>‘</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1227 2503 1920 2646">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1227 2503 1920 2646">
+     <span class='ocr_line' id='line_1_3' title="bbox 1271 2503 1880 2573; baseline 0.013 -11"><span class='ocrx_word' id='word_1_9' title='bbox 1271 2503 1398 2564; x_wconf 66' lang='lat' dir='ltr'><strong>Acme</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1416 2530 1582 2573; x_wconf 79' lang='lat' dir='ltr'>Library</span> <span class='ocrx_word' id='word_1_11' title='bbox 1609 2534 1714 2568; x_wconf 78' lang='lat' dir='ltr'>Card</span> <span class='ocrx_word' id='word_1_12' title='bbox 1731 2535 1880 2570; x_wconf 86' lang='lat' dir='ltr'>Pocket</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1227 2603 1920 2646; baseline 0.009 -8"><span class='ocrx_word' id='word_1_13' title='bbox 1227 2603 1598 2644; x_wconf 85' lang='lat' dir='ltr'>LOWE-MARTIN</span> <span class='ocrx_word' id='word_1_14' title='bbox 1628 2611 1709 2645; x_wconf 92' lang='lat' dir='ltr'><strong>CO.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1735 2612 1920 2646; x_wconf 75' lang='lat' dir='ltr'>L1M1TED</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 876 694 2056 2740">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 876 694 2056 2740">
+     <span class='ocr_line' id='line_1_5' title="bbox 876 694 2056 2740; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 876 694 2056 2740; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
